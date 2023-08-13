@@ -5,7 +5,13 @@ This is a simple app in JS, that lists all public repositories for a GitHub user
 ## How to install ##
 
 1. Clone this repository to the folder you desire.
-2. Using your terminal, access the folder (cd folder/you/desired)
+2. Using your terminal, access the folder
+
+```terminal
+cd folder/you/desired
+
+```
+
 3. Follow the steps:
 
 Install the dependences:
