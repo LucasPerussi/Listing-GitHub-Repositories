@@ -12,12 +12,14 @@ Install the dependences:
 
 ```terminal
 npm install
-}
+
 ```
 
 Run the project: 
 
 ```terminal
 npm run dev
-}
+
 ```
+
+Hope I could help yah! 🤠
